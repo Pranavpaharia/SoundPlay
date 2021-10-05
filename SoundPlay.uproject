@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{4D506F6D-4787-7AA8-9D75-9897CB0B2B66}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Metasound",
+			"Enabled": true
+		}
+	]
+}
